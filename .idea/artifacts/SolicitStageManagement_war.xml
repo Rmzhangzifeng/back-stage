@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SolicitStageManagement:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SolicitStageManagement.war">
+      <element id="artifact" artifact-name="SolicitStageManagement:war exploded" />
+    </root>
+  </artifact>
+</component>
