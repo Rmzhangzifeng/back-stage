@@ -9,7 +9,7 @@
         <module name="SolicitStageManagement" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.7">
       <module name="SolicitStageManagement" target="1.6" />
     </bytecodeTargetLevel>
   </component>
